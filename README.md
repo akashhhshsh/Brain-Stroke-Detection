@@ -6,7 +6,7 @@ Here's a comprehensive README file for your project, covering all key sections, 
 
 ## Project Overview
 This project aims to develop a robust and efficient machine learning model for brain stroke detection from MRI images, leveraging both traditional machine learning (SVM) and deep learning (CNN) approaches. With an emphasis on comparing model performance, analyzing results, and exploring enhancements through data augmentation and hyperparameter tuning, this project provides a comprehensive examination of brain stroke detection methods.
-
+Dataset link ---> https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset
 ---
 
 ## Table of Contents
